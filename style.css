@@ -1,0 +1,207 @@
+hr{
+ width: 1449px;
+ position: absolute;
+ left: 235px;
+
+}
+#title
+{
+    background-image: url("/Rectangle\ 12.png");
+    height: 704px;
+    width: 100%;
+}
+
+.container
+{
+color: #fff;
+}
+
+.img-fluid
+{
+ max-width: 100%;
+ height: auto;
+}
+
+.img-fluid-girl
+{
+ margin-top: -430px;
+ margin-left: 66px;
+}
+
+.img-fluid-phone
+{
+ position: relative;
+}
+#btn3
+{
+    color: #2391D1;
+    background-color: #fff;
+}
+#btn3:hover
+{
+    color: #fff;
+    background-color: #2391D1;
+}
+#benefits
+{
+    background-image: url(/Rectangle\ 14.png);
+    height: 704px;
+    width: 100%;
+    position: relative;
+}
+.image-fluid-rec1
+{
+    
+}
+#invest
+{
+    background-image: url(/Rectangle\ 15.png);
+    height: 704px;
+    width: 100%;
+
+    
+}
+
+.img-fluid-dash
+{
+    width: 100%;
+    height: 100px;
+}    
+    
+.image-fluid-rec1
+{
+    
+    margin-top: -647px;
+    margin-left: 720px;
+    
+    position: relative;
+    
+}
+.image-fluid-rec2
+{
+    
+   margin-top: -550px;
+   margin-left: 800px;
+       
+    position: relative;
+   
+}
+.image-fluid-ellipse
+{
+    margin-top: -900px;
+    margin-left: 1049px;
+}
+
+.image-fluid-dash1
+{
+    margin-top: 118px;
+    margin-left: 100px;
+}
+.para1
+{
+    margin-top: 50px;
+    margin-left: 100px;
+    position: relative;
+}
+#calender
+{
+    background-image: url(/baground\ vio.png);
+    height: 704px;
+    width: 100%;
+}
+.image-fluid-ellipse2
+{
+    margin-top: -782px;
+    margin-left: 100px;
+    width: 450px;
+    height: 450px;
+    position: relative;
+}
+
+.image-fluid-calender
+{
+    margin-top: -636px;
+    margin-left: 416px;
+    border-radius: 0.5rem;
+    width: 443px;
+    height: 273px;
+    position: relative;
+}
+.image-fluid-dash2
+{
+    margin-top: -1065px;
+    margin-left: 1000px;
+    width: 100px;
+    height: 100px;
+
+}
+.para2
+{
+    margin-top: -480px;
+    margin-left: 1000px;
+    position: absolute;
+}
+#query
+{
+    background-color: #fff;
+    width: 100%;
+    height: 704;
+}
+.head1
+{
+    text-align: center;
+    line-height: 10px;
+
+}
+.head2
+{
+    color: #8C8989;
+}
+
+#download
+{   
+    background-image: url(/Rectangle\ 14.png);
+    height: 1414px;
+    width: 100%;
+
+}
+.image-fluid-ellipse3
+{
+    width: 544px;
+    height: 544px;
+    margin-top: 175px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    /* position: relative; */
+}
+.image-fluid-phone5
+{
+    margin-top: -15px;
+    margin-left: -470px;
+    position: relative;
+}
+.image-fluid-phone6
+{
+    margin-top: -107px;
+    margin-left: -95px;
+    
+} 
+.card-header
+{
+  text-emphasis-color: #0086AD;
+  line-height: 36.31px;
+}
+.col
+{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 1000px;
+    
+}
+.footer
+{
+    margin-top: 33px;
+    margin-left: 337px;
+    padding: 100px 15%;
+    display: flex;
+}
